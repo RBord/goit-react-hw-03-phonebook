@@ -1,0 +1,21 @@
+.divItem {
+  display: flex;
+
+  margin-bottom: 10px;
+}
+.liItem {
+  min-width: 250px;
+}
+.btn {
+  background-color: teal;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  padding: 0px 15px;
+  margin-left: 10px;
+}
+.btn:hover,
+.btn:focus {
+  background-color: #e48f3f;
+  color: black;
+}

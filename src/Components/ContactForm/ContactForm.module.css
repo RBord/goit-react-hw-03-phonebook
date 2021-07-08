@@ -1,0 +1,19 @@
+.form {
+  display: inline-flex;
+  flex-direction: column;
+  border: 2px solid teal;
+  padding: 10px;
+}
+.btn {
+  width: 200px;
+  padding: 5px;
+  margin: 0 auto;
+}
+.label {
+  display: flex;
+  margin-bottom: 5px;
+}
+.text {
+  width: 80px;
+  margin: 0;
+}
